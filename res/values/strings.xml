@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthCare</string>
+	<!-- tab strings -->
+	<string name="tab_home">首页</string>
+	<string name="tab_scores">积分</string>
+	<string name="tab_messages">消息</string>
+	<string name="tab_surround">发现</string>
+	<string name="tab_contacts">联系人</string>
+</resources>
